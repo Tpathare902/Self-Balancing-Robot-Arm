@@ -27,6 +27,10 @@ A Bluetooth-controlled, two-wheeled self-balancing robot featuring an integrated
 ### MPU6050 (I2C)
 * **VCC:** 5V
 * **GND:** GND
+
+
+
+
 * **SDA:** A4
 * **SCL:** A5
 
@@ -69,3 +73,7 @@ If replicating this build, you will likely need to tune the PID and balancing va
 * `Neutral_Angle`: The resting angle where your specific bot is perfectly balanced.
 * `Kp`, `Ki`, `Kd`: Standard PID tuning constants.
 * `cogAdjustment`: Modify the `map()` values to change how much the bot compensates for the arm's weight shift.
+
+
+
+  Play video for more to see working model :https://github.com/user-attachments/assets/1587eacc-256a-4a1b-9a82-d6259c7825c6

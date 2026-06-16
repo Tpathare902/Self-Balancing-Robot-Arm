@@ -77,3 +77,5 @@ If replicating this build, you will likely need to tune the PID and balancing va
 
 
   Play video for more to see working model :https://github.com/user-attachments/assets/1587eacc-256a-4a1b-9a82-d6259c7825c6
+  https://youtu.be/_qBJa5aDV38?si=rlwt7iTYGCNxEU0e
+  
